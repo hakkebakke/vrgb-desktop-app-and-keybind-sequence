@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=VRGB Keyboard Color
+Comment=Styr fargene på VRGB manuelt eller via sekvens
+Exec=/usr/local/bin/vrgb_gui.py
+Icon=preferences-desktop-color
+Categories=Utility;Development;
+Terminal=false
+StartupNotify=false
